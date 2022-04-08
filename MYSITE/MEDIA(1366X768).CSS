@@ -1,0 +1,11 @@
+@media all and (max-width:1366px){
+	.photo1{
+	    margin-left: 52%;	/*52*/
+	}
+	.photo2{
+		margin-left: 8%;	/*8*/
+	}
+	.logomini{
+		margin-left: 93%;	/*93*/
+	}
+}
